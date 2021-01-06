@@ -1,0 +1,18 @@
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Enum_StructClass_5\Enum_StructClass_5\bin\Debug\Enum_StructClass_5.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Enum_StructClass_5\Enum_StructClass_5\bin\Debug\Enum_StructClass_5.exe
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Enum_StructClass_5\Enum_StructClass_5\bin\Debug\Enum_StructClass_5.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Enum_StructClass_5\Enum_StructClass_5\obj\Debug\Enum_StructClass_5.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Enum_StructClass_5\Enum_StructClass_5\obj\Debug\Enum_StructClass_5.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Enum_StructClass_5\Enum_StructClass_5\obj\Debug\Enum_StructClass_5.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Enum_StructClass_5\Enum_StructClass_5\obj\Debug\Enum_StructClass_5.exe
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Enum_StructClass_5\Enum_StructClass_5\obj\Debug\Enum_StructClass_5.pdb
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Enum_StructClass_5\Enum_StructClass_5\bin\Debug\Enum_StructClass_5.exe.config
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Enum_StructClass_5\Enum_StructClass_5\bin\Debug\Enum_StructClass_5.exe
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Enum_StructClass_5\Enum_StructClass_5\bin\Debug\Enum_StructClass_5.pdb
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Enum_StructClass_5\Enum_StructClass_5\obj\Debug\Enum_StructClass_5.csprojAssemblyReference.cache
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Enum_StructClass_5\Enum_StructClass_5\obj\Debug\Enum_StructClass_5.Form1.resources
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Enum_StructClass_5\Enum_StructClass_5\obj\Debug\Enum_StructClass_5.Properties.Resources.resources
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Enum_StructClass_5\Enum_StructClass_5\obj\Debug\Enum_StructClass_5.csproj.GenerateResource.cache
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Enum_StructClass_5\Enum_StructClass_5\obj\Debug\Enum_StructClass_5.csproj.CoreCompileInputs.cache
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Enum_StructClass_5\Enum_StructClass_5\obj\Debug\Enum_StructClass_5.exe
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Enum_StructClass_5\Enum_StructClass_5\obj\Debug\Enum_StructClass_5.pdb
